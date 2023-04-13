@@ -9,3 +9,5 @@
 2. Coffee is dispatched based on the amount of ingredients available. A funtions to refill the machine is also there.
 
 # Demo 
+![CoffeeVendor1](https://user-images.githubusercontent.com/93002372/231772506-54f7bec2-c684-441e-a235-c2b6830bc088.png)
+![CoffeeVendor2](https://user-images.githubusercontent.com/93002372/231772518-b041e4a5-b2fc-4e51-9038-e932ec6036f0.png)
